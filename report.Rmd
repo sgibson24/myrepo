@@ -44,6 +44,8 @@ This is my *paragraph* that **demonstrates** the use of text formatting. It will
 
 1. (Q2) *How many rows are in mpg? How many columns?*
 
+There are 234 rows and 11 columns.
+
 1. (Q4) *Make a scatterplot of hwy vs cyl.*
 
 
