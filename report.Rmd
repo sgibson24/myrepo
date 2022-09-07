@@ -78,7 +78,11 @@ https://colab.research.google.com/drive/1bXWJqXF9S4I3fjjrUC8J7FD002lC-P6D?usp=sh
 
 *Insert your the image of your final bar chart here*
 
+![Tableau Sales in West.](Sales in the West.png)
+
 1. *What conclusions can you draw from the chart?*
+
+There isn't any obvious conclusions from the chart. These sales seem all over from year to year. The one thing that stood out was that technology grew as the years went along. 
 
 ## Observable and Vega-Lite
 
