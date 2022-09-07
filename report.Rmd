@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. *What is your GitHub username? sgibson24
 
-2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
+2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)? https://github.com/sgibson24/myrepo.git
 
 ## R
 
