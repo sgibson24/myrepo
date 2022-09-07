@@ -48,6 +48,9 @@ There are 234 rows and 11 columns.
 
 1. (Q4) *Make a scatterplot of hwy vs cyl.*
 
+ggplot(mpg, aes(x = cyl, y = hwy)) +
+  geom_point()
+
 
 #### Workflow: basics Exercises
 
