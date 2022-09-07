@@ -36,6 +36,8 @@ This is my *paragraph* that **demonstrates** the use of text formatting. It will
 
 3. *Create a level 3 heading*
 
+### 3rd Level Heading
+
 ## R 
 
 #### Data Visualization Exercises
