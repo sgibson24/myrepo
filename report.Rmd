@@ -26,6 +26,10 @@ library(tidyverse)
 
 1. *Create a bulleted list with at least 3 items*
 
+* Bulleted list item 1
+* Bulleted list item 2
+* Bulleted list item 3
+
 2. *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
 
 3. *Create a level 3 heading*
