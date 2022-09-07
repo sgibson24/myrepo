@@ -32,6 +32,8 @@ library(tidyverse)
 
 2. *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
 
+This is my *paragraph* that **demonstrates** the use of text formatting. It will show the abilty to *italic* **bold** and to combine both with ***bold italic***. Code is enclodes between two backticks. Insert the code `R_code`. 
+
 3. *Create a level 3 heading*
 
 ## R 
