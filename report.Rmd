@@ -90,7 +90,13 @@ There isn't any obvious conclusions from the chart. These sales seem all over fr
 
 1. *In the "New York City weather forecast" section, try replacing `Forecast: detailedForecast` with `Forecast: shortForecast`. Then press the blue play button  or use Shift-Return to run your change. What happens?*
 
+It now displays a shorter forecast description instead of the detailed forecast.
+
 1. *Under the scatterplot of temperature vs. name, try replacing `markCircle()` with `markSquare()`. Then press the blue play button  or use Shift-Return to run your change. What happens? How about `markPoint()`?*
+
+The circle is now gone and replaced by sqaures.
+markPoint draws an open circle.
+
 
 1. *Under "Pick a location, see the weather forecast", pick a location on the map.  Where was the point you picked near?*
 
