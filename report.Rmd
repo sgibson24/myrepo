@@ -63,7 +63,7 @@ ggplot(data = mpg) +
 
 filter(mpg, cyl = 8)
 
-filter(diamond, carat > 3)
+filter(diamonds, carat > 3)
 ```
 
 ## Google Colab
